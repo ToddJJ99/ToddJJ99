@@ -31,7 +31,7 @@
 
 ### 📫 Contato
 
-- 📬 Email: **arthuraraujooliveira077dev@gmail.com**  
+- 📬 Email: **arthuraraujooliveira077@gmail.com**  
 - 🧠 Portfólio: [seuportfolio.com](https://seuportfolio.com)
 
 ---
