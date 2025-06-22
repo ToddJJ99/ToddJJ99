@@ -3,21 +3,20 @@
 <p align="center">
   🧠 Desenvolvedor focado em tecnologia, projetos web e independência financeira.<br>
   💻 Criando soluções com código, sempre aprendendo algo novo.<br>
-  🚀 Explorando o mundo da programação e dos investimentos.
+  🚀 Explorando o mundo da programação.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎯 Estudo desenvolvimento web com foco em back-end e front-end.
+- 🎯 Desenvolvimento web com foco em back-end e front-end.
 - 🔐 Trabalho em projetos com autenticação, banco de dados e interfaces modernas.
-- 🧩 Interesso-me por sistemas complexos, IA ética e automações.
 - 🌎 Objetivo: liberdade, domínio do código e impacto real no mundo.
 
 ---
 
-### 🛠️ Tecnologias que uso e estou aprendendo
+### 🛠️ Tecnologias que uso:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
@@ -30,19 +29,9 @@
 
 ---
 
-### 📊 Meus objetivos
-
-- 💸 Criar sistemas que gerem renda passiva.
-- 📱 Desenvolver projetos próprios com Firebase.
-- 🌐 Aprender frameworks modernos como React e Next.js.
-- 🇺🇸 Migrar para os EUA e trabalhar com tecnologia de alto nível.
-
----
-
 ### 📫 Contato
 
-- 📬 Email: **arthur.dev@email.com**  
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
+- 📬 Email: **arthuraraujooliveira077dev@gmail.com**  
 - 🧠 Portfólio: [seuportfolio.com](https://seuportfolio.com)
 
 ---
