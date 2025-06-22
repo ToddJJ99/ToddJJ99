@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Arthur!</h1>
 
 <p align="center">
-  🧠 Desenvolvedor focado em tecnologia, projetos web e independência financeira.<br>
+  🧠 Desenvolvedor focado em tecnologia, projetos web.<br>
   💻 Criando soluções com código, sempre aprendendo algo novo.<br>
   🚀 Explorando o mundo da programação.
 </p>
