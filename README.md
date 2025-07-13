@@ -22,7 +22,7 @@ Busco sempre unir lógica, criatividade e consistência para desenvolver projeto
 - 🌐 HTML5 & CSS3 (design responsivo e semântico)
 - 🧑‍💻 Git & GitHub (controle de versão)
 - 🗄️ Banco de Dados (SQL básico, JDBC)
-- ✍️ Copywriting (experiência com produtos digitais)
+- ✍️ Copywriting
 - 🏗️ Desenvolvimento fullstack
 
 ---
