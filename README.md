@@ -38,11 +38,10 @@ Busco sempre unir lógica, criatividade e consistência para desenvolver projeto
 
 ## 📈 Projetos em Andamento
 
-- Plataforma de estudos Java orientada a objetos
-- Mini sistema de gerenciamento em console
-- Curso digital autoral sobre Copywriting (Kiwify)
-- Protótipos web com HTML, CSS e integração backend
-
+- Sistema operacional (participo do projeto)
+- Sistema de gerenciamento em console
+- Sistema de aprendizado gamificado
+  
 ---
 
 ## 🎯 Objetivos Profissionais
