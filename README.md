@@ -32,21 +32,11 @@ Mentalidade empreendedora
 
 Visão de longo prazo em tecnologia e finanças
 
-Interesse por IA, filosofia, inovação e investimentos
-
-📈 Projetos em Andamento
-Sistema operacional (participo do projeto)
-
-Sistema de gerenciamento em console
-
-Sistema de aprendizado gamificado
-
-Miniaplicações com React + Node
 
 🎯 Objetivos Profissionais
 Dominar tecnologias essenciais para desenvolvimento web moderno
 
-Criar soluções reais e escaláveis com Java, React e Node.js
+Criar soluções reais e escaláveis
 
 Trabalhar em times inovadores e projetos com impacto social
 
