@@ -1,5 +1,5 @@
 👋 Olá! Eu sou o Arthur Araújo
-Desenvolvedor em formação com foco em Java, JavaScript, HTML, CSS, React e Node.js — apaixonado por tecnologia, educação financeira e pela construção de soluções que realmente fazem a diferença.
+Desenvolvedor em formação com foco em Java, JavaScript, HTML, CSS, React e Node.js — apaixonado por tecnologia e pela construção de soluções que realmente fazem a diferença.
 
 Busco sempre unir lógica, criatividade e consistência para desenvolver projetos sólidos — seja no backend com Java e Node.js ou no frontend com React e interfaces bem estruturadas.
 
